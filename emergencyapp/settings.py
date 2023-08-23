@@ -79,8 +79,8 @@ DATABASES = {
         'NAME': 'emergency_app',
         'USER': 'teepayce',
         'PASSWORD': '5675gere',
-        'HOST': 'localhost',
-        'PORT': '',
+       'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
